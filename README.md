@@ -15,9 +15,7 @@ I decided to maintain consistent navigation and styling across all pages.
 #Setting Up the Folder Structure
 
 I created a project folder with:
->> index.html
->> about.html
->> contact.html
+>> index.html , about.html , contact.html
 
 This helped keep the project organized and professional.
 
