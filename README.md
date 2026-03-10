@@ -1,73 +1,50 @@
-#Project Name: Bootstrap Agency Website
+#  Bootstrap Agency Website
 
-#Project Planning
+## Project Planning
+I first understood the project requirements, which was to build a responsive multi-page website using Bootstrap. I planned to create three main pages:  
 
-I first understood the project requirement, which was to build a responsive multi-page website using Bootstrap. I planned to create three main pages:
+ - Home (`index.html`)  
+ - About (`about.html`)  
+ - Contact (`contact.html`)  
 
-> Home (index.html)
+I decided to maintain consistent navigation and styling across all pages.  
 
-> About (about.html)
+## Setting Up the Folder Structure
+I created a project folder with:  
 
-> Contact (contact.html)
+ - `index.html`  
+ - `about.html`  
+ - `contact.html`  
 
-I decided to maintain consistent navigation and styling across all pages.
+This made the project organized and professional.  
 
-#Setting Up the Folder Structure
+## Designing the Home Page
+- Added Bootstrap CDN link  
+- Created a responsive navbar  
+- Added a hero section  
+- Added services/cards section  
+- Ensured proper spacing using Bootstrap classes  
 
-I created a project folder with:
->> index.html , about.html , contact.html
+I tested responsiveness using browser developer tools.  
 
-This helped keep the project organized and professional.
+## Creating About Page
+- Maintained the same navbar for consistency  
+- Added image section  
+- Added company description  
+- Used Bootstrap grid system for alignment  
 
-#Designing the Home Page
+## Creating Contact Page
+- Designed a contact form using Bootstrap form classes  
+- Added input fields (Name, Email, Message)  
+- Styled the button properly  
+- Ensured clean spacing and alignment  
 
-- Added Bootstrap CDN link
-
-- Created a responsive navbar
-
-- Added a hero section
-
-- Added services/cards section
-
-- Ensured proper spacing using Bootstrap classes
-
-I tested responsiveness using browser developer tools.
-
-#Creating About Page
-
-- Maintained the same navbar for consistency
-
-- Added image section
-
-- Added company description
-
-- Used Bootstrap grid system for alignment
-
-#Creating Contact Page
-
-- Designed a contact form using Bootstrap form classes
-
-- Added input fields (Name, Email, Message)
-
-- Styled the button properly
-
-- Ensured clean spacing and alignment
-
-#Tools & Resources Used
-
-I used the following tools and resources:
-
-* Bootstrap documentation (for layout and components)
-
-* Git & GitHub for version control and deployment
-
-* ChatGPT for guidance in:
-
-   ^ Debugging Git errors
-
-   ^ Fixing image path issues
-
-   ^ Understanding deployment steps
-
-   ^ Browser developer tools for testing responsiveness
-
+## Tools & Resources Used
+I used the following tools and resources:  
+- Bootstrap documentation (for layout and components)  
+- Git & GitHub for version control and deployment  
+- ChatGPT for guidance in:  
+  - Debugging Git errors  
+  - Fixing image path issues  
+  - Understanding deployment steps  
+  - Browser developer tools for testing responsiveness  
